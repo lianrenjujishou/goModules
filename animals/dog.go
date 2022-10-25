@@ -2,6 +2,6 @@ package animals
 
 import "fmt"
 
-func printDog(){
+func PrintDog(){
 	fmt.Println("狗!")
 }
